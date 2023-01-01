@@ -1,6 +1,6 @@
-## Hello! My name is Douglas!
+# Hello! My name is Douglas!
 
-### 📇 About me
+## 📇 About me
 
 - Game developer specialized with the Godot Engine;
 - Lesser Godot Engine contributor;
@@ -9,7 +9,7 @@
 - Studying Python;
 - Trying to teach myself digital art.
 
-### 🗣️ Spoken Languages
+## 🗣️ Spoken Languages
 
 - Portuguese (Brazilian, native);
 - English (Proficient);
@@ -18,7 +18,7 @@
 
 ---
 
-### 💡 Skills
+## 💡 Skills
 <code><img width="48" src="https://github.com/github/explore/raw/main/topics/godot/godot.png" alt="Godot"/></code>
 <code><img width="48" src="https://github.com/github/explore/raw/main/topics/csharp/csharp.png" alt="C#"/></code>
 <code><img width="48" src="https://github.com/github/explore/raw/main/topics/cpp/cpp.png" alt="C++"/></code>
@@ -27,21 +27,21 @@
 <code><img width="48" src="https://github.com/github/explore/raw/main/topics/git/git.png" alt="Git"/></code>
 <code><img width="48" src="https://github.com/github/explore/raw/main/topics/github-api/github-api.png" alt="GitHub" style="background-color:white;"/></code>
 
-- 👨‍💻 Programming Languages:
+### 👨‍💻 Programming Languages:
 
-	- GDScript (Proficient);
-	- C# (Intermediate);
-	- C++ and Python (Basic).
+- GDScript (Proficient);
+- C# (Intermediate);
+- C++ and Python (Basic).
  
-- 📜 Other Languages:
+### 📜 Other Languages:
 
-	- Markdown (Enough to be able to write this);
-	> I am really not that good with HTML and XML.
+- Markdown (Enough to be able to write this);
+> I am really not that good with HTML and XML.
  
-- ⚙️ Game Engines:
+### ⚙️ Game Engines:
 
-	- Godot (Proficient, main engine);
-	> Sort of aware of features but never actively used Unity and Unreal.
+- Godot (Proficient, main engine);
+> Sort of aware of features but never actively used Unity and Unreal.
 
 Other significant tools include Git and GitHub.
 
@@ -50,7 +50,7 @@ Other significant tools include Git and GitHub.
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=DeeJayLSP&theme=onedark&show_icons=true">
 
 ---
-### 👉 Follow me
+## 👉 Follow me
 
 <p align="left">
 
