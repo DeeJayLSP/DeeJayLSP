@@ -46,7 +46,7 @@
 Other significant tools include Git and GitHub.
 
 ---
-<br>
+<br/>
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=DeeJayLSP&theme=onedark&show_icons=true">
 
 ---
@@ -61,4 +61,17 @@ Other significant tools include Git and GitHub.
   <img src="https://img.shields.io/twitter/follow/DeeJay_LSP?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   
   
-</p>  
+</p>
+
+---
+
+## 💲 Donations
+
+While I don't really want to ask for donations, if you want to support me I'm leaving these here:
+
+<a href="https://ko-fi.com/deejaylsp40250" alt="Ko-fi">
+<img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_blue.png" height=40 /></a>
+<br><br/>
+Nano (XNO) address: nano_13wngkuzgnepaphzi39wg6yd81xex5mhzntybq5k4yq9ysg3jazd3zjxkuuy
+
+(I'm not accepting other cryptos unless you convince me I should)
