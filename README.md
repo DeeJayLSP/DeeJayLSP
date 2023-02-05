@@ -6,7 +6,7 @@
 - Lesser Godot Engine contributor;
 - Free/libre software enjoyer;
 - Working as a full-time Junior Game Developer at the time of this writing;
-- Studying Python;
+- Studying Python and C#;
 - Trying to teach myself digital art.
 
 ## 🗣️ Spoken Languages
