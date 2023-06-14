@@ -5,7 +5,7 @@
 - Game developer specialized with the Godot Engine;
 - Lesser Godot Engine contributor;
 - Free/libre software enjoyer;
-- Working as a full-time Junior Game Developer at the time of this writing;
+- Working as a freelance Game Developer at the time of this writing;
 - Studying Python and C#;
 - Trying to teach myself digital art.
 
@@ -67,11 +67,6 @@ Other significant tools include Git and GitHub.
 
 ## 💲 Donations
 
-While I don't really want to ask for donations, if you want to support me I'm leaving these here:
+No donations, just tips.
 
-<a href="https://ko-fi.com/deejaylsp40250" alt="Ko-fi">
-<img src="https://storage.ko-fi.com/cdn/brandasset/kofi_button_blue.png" height=40 /></a>
-<br><br/>
-Nano (XNO) address: nano_13wngkuzgnepaphzi39wg6yd81xex5mhzntybq5k4yq9ysg3jazd3zjxkuuy
-
-(I'm not accepting other cryptos unless you convince me I should)
+https://zink.tips/deejaylsp
