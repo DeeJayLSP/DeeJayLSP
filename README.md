@@ -65,8 +65,6 @@ Other significant tools include Git and GitHub.
 
 ---
 
-## 💲 Donations
+## 💲 Tips
 
-No donations, just tips.
-
-https://zink.tips/deejaylsp
+You may tip me at https://zink.tips/deejaylsp
