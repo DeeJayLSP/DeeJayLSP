@@ -26,6 +26,7 @@
 <code><img width="48" src="https://github.com/github/explore/raw/main/topics/git/git.png" alt="Git"/></code>
 <code><img width="48" src="https://github.com/github/explore/raw/main/topics/github-api/github-api.png" alt="GitHub" style="background-color:white;"/></code>
 <code><img width="48" src="https://github.com/github/explore/raw/main/topics/hugo/hugo.png" alt="Hugo"/></code>
+<code><img width="48" src="https://github.com/github/explore/raw/main/topics/wordpress/wordpress.png" alt="WordPress"/></code>
 
 ### 👨‍💻 Programming Languages:
 
