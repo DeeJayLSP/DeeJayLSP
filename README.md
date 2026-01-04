@@ -12,8 +12,7 @@
 - Portuguese (Brazilian, native);
 - English (Proficient);
 - Spanish (Basic);
-- Esperanto (Basic);
-> Also very basic (too low to keep a conversation) Japanese and French.
+> Also very basic (too low to keep a conversation) Japanese.
 
 ---
 
@@ -42,9 +41,12 @@
 ### ⚙️ Game Engines:
 
 - Godot (Proficient, main engine);
-> Sort of aware of features but never actively used Unity and Unreal.
+> Sort of aware of features but never actively used Unity and Unreal (remem.
 
-Other significant tools include Git and GitHub.
+### Others:
+
+- Git and GitHub (duh)
+- Exiting Vim
 
 ---
 <br/>
@@ -55,7 +57,7 @@ Other significant tools include Git and GitHub.
 
 <p align="left">
 
-  <a href="https://deejaylsp.neocities.org/">My Website</a>
+  <a href="https://gamedev.djlsp.xyz/">My Website</a>
    
   <a href="https://www.linkedin.com/in/douglas-le%C3%A3o-043769178/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
