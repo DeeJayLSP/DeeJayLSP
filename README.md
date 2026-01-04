@@ -3,16 +3,16 @@
 ## 📇 About me
 
 - Game developer specialized with the Godot Engine;
-- Lesser Godot Engine contributor;
+- Occasional Godot Engine contributor;
 - Free/libre software enjoyer;
-- Unemployed at the time of this writing;
+- Unemployed but involved on a project at the time of this writing;
 
 ## 🗣️ Spoken Languages
 
 - Portuguese (Brazilian, native);
 - English (Proficient);
 - Spanish (Basic);
-> Also very basic (too low to keep a conversation) Japanese.
+> Also very basic Japanese (not even close to N5).
 
 ---
 
