@@ -10,7 +10,7 @@
 ## 🗣️ Spoken Languages
 
 - Portuguese (Brazilian, native);
-- English (Proficient);
+- English (Advanced);
 - Spanish (Basic);
 > Also very basic Japanese (not even close to N5).
 
