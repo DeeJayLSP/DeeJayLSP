@@ -1,4 +1,4 @@
-# Hello! My name is Douglas!
+# Hello! Call me D.J.!
 
 ## 📇 About me
 
